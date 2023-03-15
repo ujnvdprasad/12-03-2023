@@ -6,7 +6,7 @@ class MainClass{
         System.out.print("Hello World\n");
         System.out.print("Hello World");
         System.out.println();
-        int a=5;
+        int a=45;
         int b=15;
         int sum=a+b;
         int diff=b-a;

@@ -47,7 +47,7 @@ public class Functions {
         return;
     }
     public static void printcircumference(double rad){
-        double circumference =2*3.14*rad;
+        double circumference =2*1*3.14*rad;
         System.out.println(circumference);
         return;
     }
